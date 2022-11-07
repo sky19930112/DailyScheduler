@@ -10,5 +10,5 @@ Daily Scheduller to take notes for tasks of the day
 - Each time block is able to input notes and save to local storage
 
 ## Mock-Up
-![image one](.\image\page1.jpg)
-![image two](.\image\page2.jpg)
+![image one](./image/page1.jpg)
+![image two](./image/page2.jpg)
